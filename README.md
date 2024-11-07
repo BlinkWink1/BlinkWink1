@@ -1,12 +1,12 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hola 🌎, soy Zakaria Chiouloud
+### Hola 🌎, soy Zakaria
 
 Llevo ya mas de 1 años de experiencia en el ambito de la Administracion de sistemas y el Hacking etico; de busqueda de vulnerabilidades de accesos no intencionados al sistema de terceros, Auditorias, pentesting, analisis de malware,desarrollo de un escaner de vulnerabilidades, cifrado y criptografia, simulaciones de Red team y Blue team ! 🚀
 
-  - 🔭 Actualmente estoy trabajando en mejorar aplicaciones Java de la versión JDK 8 a JDK 21.
-  - 🌱 Actualmente estoy aprendiendo: Junit, Jakarta, Spring Security, Spring Cloud.
-  - 💬 Pregúntame sobre **HTML, CSS, Bootstrap, JavaScript, PHP**
+  - 🔭 Actualmente estoy trabajando en mejorar los sistemas de la red para que sean mas seguros.
+  - 🌱 Actualmente estoy aprendiendo: , Cloud Security, Seguridad en Blockchain y Criptomonedas.
+  - 💬 Pregúntame sobre **CONTROL DE LA RED, BASES DE DATOS, LINUX, BLUE TEAM Y RED TEAM, **
   - ⚡ Dato curioso: ¡Me dicen que parezco un hacker experto!
 
 <h3 align="left">Conéctate conmigo:</h3>
@@ -42,11 +42,11 @@ Llevo ya mas de 1 años de experiencia en el ambito de la Administracion de sist
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,python,nodejs,Cpp,"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Bases de datos:</td>
@@ -54,7 +54,7 @@ Llevo ya mas de 1 años de experiencia en el ambito de la Administracion de sist
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlab"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Pruebas automatizadas:</td>
@@ -62,19 +62,19 @@ Llevo ya mas de 1 años de experiencia en el ambito de la Administracion de sist
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Control de versiones:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras herramientas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash,powershell,wordpress,notion,npm,obsidian,gamil,discord,"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Sistemas operativos:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali,"/></td>
     </tr>
 </table>
 

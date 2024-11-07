@@ -23,7 +23,7 @@ Con más de 8 años de experiencia como Ingeniero de Software, mi misión es cre
 ------
 <h3 align="left">Actividad:</h3>
 
-[![Gráfico de actividad de Zakaria](https://github-readme-activity-graph.vercel.app/graph?username=ZakariaChiouloud&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/zakariachiouloud)
+[![Gráfico de actividad de Zakaria](https://github-readme-activity-graph.vercel.app/graph?username=BlinkWink1&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/zakariachiouloud)
 
 <div align="center">
   <a href="https://github.com/ZakariaChiouloud">

@@ -2,7 +2,14 @@
 
 ### Hola 🌎, soy Zakaria
 
-Llevo ya mas de 1 años de experiencia en el ambito de la Administracion de sistemas y el Hacking etico; de busqueda de vulnerabilidades de accesos no intencionados al sistema de terceros, Auditorias, pentesting, analisis de malware,desarrollo de un escaner de vulnerabilidades, cifrado y criptografia, simulaciones de Red team y Blue team ! 🚀
+Llevo ya mas de 3 años en el ambito de la informatica mas enfocado en la administracion de sistemas o meyormente llamado SysAdmin, hice el Grado medio de Sistemas micro informaticos y redes y despues el Gradeo superior de Administracion de sistemas.
+
+He aprendido muchisimas herramientas bastante reconocidas e importantes en este sector tanto en programacion,ciberseguridad y administracion de una red de sistemas informaticos. 
+
+Tecnologias que he utilizado hace poco:
+SO: Kali linux y kali Purple linux, Windows server y Windows 10-11, Ubuntu Server y Ubuntu desktop,Debian Server ! 🚀
+
+Herramientas: Odoo, Wordpress, MySQL Workbench, XAMPP, Nessus, CLARA, Shodan, Systevo, Lynis, Git, GitKraken, GitHub, Virtual box, Visual Studios Code y etc.
 
   - 🔭 Actualmente estoy trabajando en mejorar los sistemas de la red para que sean mas seguros.
   - 🌱 Actualmente estoy aprendiendo: , Cloud Security, Seguridad en Blockchain y Criptomonedas.

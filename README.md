@@ -26,14 +26,14 @@ Con más de 8 años de experiencia como Ingeniero de Software, mi misión es cre
 [![Gráfico de actividad de Zakaria](https://github-readme-activity-graph.vercel.app/graph?username=BlinkWink1&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/zakariachiouloud)
 
 <div align="center">
-  <a href="https://github.com/ZakariaChiouloud">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaChiouloud&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="ZakariaChiouloud"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZakariaChiouloud&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="ZakariaChiouloud"/>
+  <a href="https://github.com/BlinkWink1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlinkWink1&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="ZakariaChiouloud"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlinkWink1&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="ZakariaChiouloud"/>
   </a>
 </div>
 <p align="center">
-  <a href="https://github.com/ZakariaChiouloud">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaChiouloud&&theme=tokyonight" alt="ZakariaChiouloud" />
+  <a href="https://github.com/BlinkWink1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlinkWink1&&theme=tokyonight" alt="ZakariaChiouloud" />
   </a>
 </p>
 

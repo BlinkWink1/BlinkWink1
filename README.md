@@ -13,7 +13,7 @@ Herramientas: Odoo, Wordpress, MySQL Workbench, XAMPP, Nessus, CLARA, Shodan, Sy
 
   - 🔭 Actualmente estoy trabajando en mejorar los sistemas de la red para que sean mas seguros.
   - 🌱 Actualmente estoy aprendiendo: , Cloud Security, Seguridad en Blockchain y Criptomonedas.
-  - 💬 Pregúntame sobre **CONTROL DE LA RED, BASES DE DATOS, LINUX, BLUE TEAM Y RED TEAM, **
+  - 💬 Pregúntame sobre **CONTROL DE LA RED, BASES DE DATOS, LINUX, BLUE TEAM Y RED TEAM**
   - ⚡ Dato curioso: ¡Me dicen que parezco un hacker experto!
 
 <h3 align="left">Conéctate conmigo:</h3>

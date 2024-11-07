@@ -54,7 +54,7 @@ Llevo ya mas de 1 años de experiencia en el ambito de la Administracion de sist
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Pruebas automatizadas:</td>
@@ -70,11 +70,11 @@ Llevo ya mas de 1 años de experiencia en el ambito de la Administracion de sist
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras herramientas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash,powershell,wordpress,notion,npm,obsidian,gamil,discord,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash,powershell,wordpress,notion,npm,obsidian,gmail,discord,"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Sistemas operativos:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali"/></td>
     </tr>
 </table>
 

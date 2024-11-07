@@ -2,7 +2,7 @@
 
 ### Hola 🌎, soy Zakaria Chiouloud
 
-Con más de 8 años de experiencia como Ingeniero de Software, mi misión es crear soluciones tecnológicas que conecten el mundo digital con la vida real. Tengo la capacidad de desarrollar tanto en frontend como en backend, lo que me permite llevar mi magia a startups revolucionarias y gigantescos proyectos empresariales. Me apasiona escribir código limpio, mantenible y con el usuario en mente, prosperando en entornos que valoran la innovación y el crecimiento profesional continuo. ¡Vamos a hacer brillar la tecnología! 🚀
+Llevo ya mas de 1 años de experiencia en el ambito de la Administracion de sistemas y el Hacking etico; de busqueda de vulnerabilidades de accesos no intencionados al sistema de terceros, Auditorias, pentesting, analisis de malware,desarrollo de un escaner de vulnerabilidades, cifrado y criptografia, simulaciones de Red team y Blue team ! 🚀
 
   - 🔭 Actualmente estoy trabajando en mejorar aplicaciones Java de la versión JDK 8 a JDK 21.
   - 🌱 Actualmente estoy aprendiendo: Junit, Jakarta, Spring Security, Spring Cloud.

@@ -24,7 +24,6 @@ Herramientas: Odoo, Wordpress, MySQL Workbench, XAMPP, Nessus, CLARA, Shodan, Sy
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlinkWink1&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="ZakariaChiouloud" /> </p>
 
 
 ------
@@ -34,7 +33,6 @@ Herramientas: Odoo, Wordpress, MySQL Workbench, XAMPP, Nessus, CLARA, Shodan, Sy
 
 <div align="center">
   <a href="https://github.com/BlinkWink1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlinkWink1&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="ZakariaChiouloud"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlinkWink1&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="ZakariaChiouloud"/>
   </a>
 </div>
@@ -86,5 +84,5 @@ Herramientas: Odoo, Wordpress, MySQL Workbench, XAMPP, Nessus, CLARA, Shodan, Sy
 </table>
 
 ------
-[ZakariaChiouloud](https://github.com/ZakariaChiouloud)
+[Zakaria Chiouloud](https://github.com/BlinkWink1)
 07/11/2024

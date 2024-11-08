@@ -6,16 +6,20 @@ Llevo ya mas de 3 años en el ambito de la informatica mas enfocado en la admini
 
 He aprendido muchisimas herramientas bastante reconocidas e importantes en este sector tanto en programacion,ciberseguridad y administracion de una red de sistemas informaticos. 
 
-Tecnologias que he utilizado hace poco:
-SO: Kali linux y kali Purple linux, Windows server y Windows 10-11, Ubuntu Server y Ubuntu desktop,Debian Server ! 🚀
+------
 
-Herramientas: Odoo, Wordpress, MySQL Workbench, XAMPP, Nessus, CLARA, Shodan, Systevo, Lynis, Git, GitKraken, GitHub, Virtual box, Visual Studios Code y etc.
+Tecnologias que he utilizado hace poco:
+
+  - 🐉 SO: Kali linux y kali Purple linux, Windows server y Windows 10-11, Ubuntu Server y Ubuntu desktop,Debian Server ! 
+  - 🛠️ Herramientas: Odoo, Wordpress, MySQL Workbench, XAMPP, Nessus, CLARA, Shodan, Systevo, Lynis, Git, GitKraken, GitHub, Virtual box, Visual Studios Code...
+
+------
+Mas sobre mi:
 
   - 🔭 Actualmente estoy trabajando en mejorar los sistemas de la red para que sean mas seguros.
-  - 🌱 Actualmente estoy aprendiendo: , Cloud Security, Seguridad en Blockchain y Criptomonedas.
-  - 💬 Pregúntame sobre **CONTROL DE LA RED, BASES DE DATOS, LINUX, BLUE TEAM Y RED TEAM**
-  - ⚡ Dato curioso: ¡Me dicen que parezco un hacker experto!
-
+  - 🌱 Actualmente estoy aprendiendo: Cloud Security, Seguridad en Blockchain y Criptomonedas.
+  - 💬 Pregúntame sobre **Control de una arquitectura Red, Bases de datos, SO, Blue team Y Red team**
+    
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://twitter.com/ZakariaChiouloud" target="blank"><i align="center" class="devicon-twitter-original" alt="Zakaria_Chiouloud" height="40" width="60" ></i>
@@ -82,7 +86,3 @@ Herramientas: Odoo, Wordpress, MySQL Workbench, XAMPP, Nessus, CLARA, Shodan, Sy
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali"/></td>
     </tr>
 </table>
-
-------
-[Zakaria Chiouloud](https://github.com/BlinkWink1)
-07/11/2024

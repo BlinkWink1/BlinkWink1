@@ -2,9 +2,9 @@
 
 ### Hola 🌎, soy Zakaria
 
-Llevo ya mas de 3 años en el ambito de la informatica mas enfocado en la administracion de sistemas o meyormente llamado SysAdmin, hice el Grado medio de Sistemas micro informaticos y redes y despues el Gradeo superior de Administracion de sistemas.
+Llevo mas de 3 años en el ambito de la informatica mas enfocado en la administracion de sistemas o meyormente llamado SysAdmin, hice el Grado medio de Sistemas micro informaticos y redes, ademas de el Grado superior de Administracion de sistemas informaticos en red.
 
-He aprendido muchisimas herramientas bastante reconocidas e importantes en este sector tanto en programacion,ciberseguridad y administracion de una red de sistemas informaticos. 
+He aprendido muchisimas herramientas bastante reconocidas e importantes en este sector tanto en programacion,ciberseguridad y administracion de una red de sistemas informaticos.
 
 ------
 

@@ -24,7 +24,7 @@ Herramientas: Odoo, Wordpress, MySQL Workbench, XAMPP, Nessus, CLARA, Shodan, Sy
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZakariaChiouloud&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="ZakariaChiouloud" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlinkWink1&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="ZakariaChiouloud" /> </p>
 
 
 ------

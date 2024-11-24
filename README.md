@@ -1,5 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-![Descripción de la imagen]([https://github.com/BlinkWink1/BlinkWink1/blob/main/github-header-image.png])
+![Descripción de la imagen](https://github.com/BlinkWink1/BlinkWink1/blob/main/github-header-image.png)
 
 ### Hola 🌎, soy Zakaria
 

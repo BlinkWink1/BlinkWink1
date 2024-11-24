@@ -1,5 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-![Descripción de la imagen](https://github.com/BlinkWink1/BlinkWink1/blob/main/github-header-image.png)
+![Descripción de la imagen]([https://github.com/BlinkWink1/BlinkWink1/blob/main/github-header-image.png])
+
 ### Hola 🌎, soy Zakaria
 
 Llevo mas de 3 años en el ambito de la informatica mas enfocado en la administracion de sistemas o meyormente llamado SysAdmin, hice el Grado medio de Sistemas micro informaticos y redes, ademas de el Grado superior de Administracion de sistemas informaticos en red.
